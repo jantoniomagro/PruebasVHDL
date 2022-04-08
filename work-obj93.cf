@@ -1,0 +1,4 @@
+v 4
+file . "mux.vhdl" "1ebe9d74d0c6051b1d1fe0bcfa5221cf2316d4da" "20220408025620.600":
+  entity mux at 1( 0) + 0 on 11;
+  architecture gate1 of mux at 13( 195) + 0 on 12;
