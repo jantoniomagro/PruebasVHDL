@@ -1,4 +1,8 @@
 v 4
+file . "mux_b4.vhdl" "e058693b8e9c213f0e4e8a852c316ff2c24175a6" "20220408033512.207":
+  entity mux_b4 at 1( 0) + 0 on 34;
+  architecture comp1 of mux_b4 at 14( 267) + 0 on 35;
+  architecture comp2 of mux_b4 at 21( 384) + 0 on 36;
 file . "mux.vhdl" "eed0530739a8be4aff75c0f6f627f1f3f640af34" "20220408031305.882":
   entity mux at 1( 0) + 0 on 27;
   architecture comportam1 of mux at 14( 211) + 0 on 28;
